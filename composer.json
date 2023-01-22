@@ -1,0 +1,19 @@
+{
+    "name": "yandricr/telegramuser-fts",
+    "description": "Obtain data from each Telegram user",
+    "license": "MIT",
+    "readme": "README.md",
+    "keywords": ["telegram", "telegram user", "user", "data"],
+    "autoload": {
+        "psr-4": {
+            "Telegram\\Teleuser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yandricr",
+            "email": "yandribret@gmail.com"
+        }
+    ],
+    "require": {}
+}
