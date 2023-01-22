@@ -6,7 +6,7 @@ Get data from each user or telegram bots
 Recommended way of installing this is via [Composer](https://getcomposer.org/):
 
 ```bash
-  composer require telegramuser-fts
+  composer require yandricr/telegramuser-fts
 ```
 ## Usage/Examples
 ```javascript
